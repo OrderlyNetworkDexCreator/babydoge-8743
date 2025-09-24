@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "The Mighty Meme Fueling Perps Trading",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Rewards",
   "VITE_CUSTOM_MENUS": "Swaps, https://swap.babydoge.com/; PAWS, https://t.me/BabyDogePAWS_bot?start=r_5367965448",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/babydogearmy",
